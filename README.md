@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @emartt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hello-world
 
-<!---
-emartt/emartt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Raymart Jagdon Github Repository 
+
+
+My name is Raymart Jagdon. I am 18years old student that is currently studying in University of Cebu with the Course of BSIT. I live in Cabangahan Consolacion Cebu.I like playing Online games on cellphone and computer. I am a Filipino Citizen.
